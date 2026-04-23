@@ -44,3 +44,10 @@ This project is created to learn Python basics and understand how email validati
 
 ## Author
 Nageen Azhar
+
+## Screenshot:
+![email-validator-python Screenshot]
+(Screenshot_email-validator-python)
+
+<img width="336" height="245" alt="Screenshot_email-validator-python " src="https://github.com/user-attachments/assets/610b8982-8acd-4fee-8384-f061283db8a1" />
+
